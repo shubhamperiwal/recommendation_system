@@ -6,6 +6,6 @@ In the end, I will predict the rating for a specified movie which a specified us
 
 I will be using 2 methods:
 1. Using Surprise library
-2. USing low-level python code
+2. Using low-level python code
 
-I'm open to advice and suggestions. Please feel free to create a pull request if you feel this repository can be improved or just drop me an email at shubhamperiwal98@gmail.com 
+I'm open to advice and suggestions. Please feel free to create a pull request if you feel this repository can be improved or just drop me an email
